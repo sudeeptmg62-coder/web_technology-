@@ -64,6 +64,7 @@ section {
 
 /* Section Colors */
 .section {
+        text-align: start;
     border-radius: 20px;
     margin: 40px auto;
     max-width: 900px;
@@ -173,4 +174,5 @@ section {
     color:#63c7ff; /* Lighter Sky Blue on hover */
     text-decoration: underline;
 }
+
 
